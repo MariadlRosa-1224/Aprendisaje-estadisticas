@@ -1,0 +1,1 @@
+Son tablas en los que los valores solo dependen de una variable como un paciente en un hospital, este valor depende unicamente del hospital y responde a la unica pregunta, en que hoapital se encuentra el paciente A?. The haber 2 preguntas a responder entonces nos encontramos con una [[Tabla bidimencional]] 

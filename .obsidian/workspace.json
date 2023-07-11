@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "9e2baedcc4ddb3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5926743bf02dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea247e59cdfeecee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac02a54e12cd312b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distribucion conjunta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8955304f93b8b8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed8c375554329b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medidas de dispersion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2565df3bf31b82f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desplazamiento y escala de valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949d1eee85caab31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2e127651df934f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medidas de dispersion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f2124d393472d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "153a7b70a0000e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e7afe9b88a48f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de75f1bded87a682",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "079960377946ca63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d614f29ffe54326",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3ea89cef9fd367cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "80ca5d467e05f53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76db5b4ccc2011a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medidas de dispersion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "631bb5ffb97a177a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medidas de dispersion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c7fb25979efc01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d224fef46753dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medidas de dispersion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2e127651df934f8",
+  "lastOpenFiles": [
+    "visualizaciones.md",
+    "poblacion y muestra.md",
+    "representacion de datos.md",
+    "Screenshot 2023-06-27 at 1.54.57 AM.png",
+    "Screenshot 2023-06-27 at 1.54.53 AM 1.png",
+    "Screenshot 2023-06-27 at 1.54.53 AM.png",
+    "Screenshot 2023-06-27 at 12.50.31 AM.png",
+    "Screenshot 2023-06-27 at 12.50.04 AM.png",
+    "Screenshot 2023-06-27 at 12.49.59 AM.png",
+    "Screenshot 2023-06-26 at 7.42.25 PM.png",
+    "Screenshot 2023-06-26 at 7.42.21 PM.png",
+    "que es y conceptos.md",
+    "tablas.md",
+    "Estadística  descriptiva.md",
+    "Tabla bidimencional.md",
+    "Tabla unidimencional.md",
+    "2023-06-20.md",
+    "Box plots.md",
+    "Screenshot 2023-06-20 at 5.32.04 PM.png",
+    "Untitled.canvas",
+    "Desplazamiento y escala de valores.md",
+    "Screenshot 2023-06-20 at 1.08.26 PM.png",
+    "Medidas de dispersion.md",
+    "Medidas de tendencia central.md",
+    "distribucion conjunta.md",
+    "Untitled.md",
+    "frecuencia estadistica.md",
+    "platzi work.md",
+    "ejercicios-para-practicar-del-curso-de-estadistica-y-probabilidad.pptx",
+    "Variables.md",
+    "3.4_RDT_video_slides.pptx",
+    "Estadistica inferencial.md"
+  ]
+}

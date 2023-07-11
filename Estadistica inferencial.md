@@ -1,0 +1,1 @@
+Esta estadistica recopila una muestra de informacion a partir de una poblacion de datos con tal de inferir las propiedades presentes en aquella poblacion
